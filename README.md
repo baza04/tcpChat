@@ -1,1 +1,1 @@
-## todoApp on Go
+## simple tcp chat 
